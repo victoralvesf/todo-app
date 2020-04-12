@@ -1,10 +1,4 @@
-*[draggable] {
-    -webkit-user-drag: element;
-    cursor: -webkit-grab;
-    user-select: none;
-}
-
-html, body, #root {
+#root {
     width: 100vw;
     height: 100vh;
     display: flex;
